@@ -79,6 +79,6 @@
 
 ## 👨‍💻 Tác giả
 
-**Nguyễn Văn A**  
+**Nguyễn Hoàng Nguyên**  
 Email: hnguyen261002@gmail.com  
 Project môn: Hệ quản trị Cơ sở dữ liệu – 2023  
